@@ -42,6 +42,6 @@
 ## 素材来源与署名
 
 - **角色原设**：B 站 [@ZipZipPipe](https://space.bilibili.com/4168597)（胖次狐）创作的[《AI娘化》](https://www.pixiv.net/artworks/148186519)。画师允许取用与再创作，要求保留作者署名且不可商用（参见[作者再创作说明](https://www.bilibili.com/video/BV1bARXBYEZz/)）。
-- **角色设定图**：GitHub [@lmy414](https://github.com/lmy414) 整理的 [ai-chan-sheets](https://github.com/lmy414/ai-chan-sheets)，补全部分按 CC BY-NC-SA 4.0 授权，原图部分沿用 ZipZipPipe 的非商用条件（参见[仓库 LICENSE](https://github.com/lmy414/ai-chan-sheets/blob/51c15559ac7ebc6bbfb22e1769ba46716f976d5d/LICENSE)）。
+- **角色设定图**：GitHub [@lmy414](https://github.com/lmy414) 整理的 [ai-chan-sheets](https://github.com/lmy414/ai-chan-sheets)，补全部分按 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 授权，原图部分沿用 ZipZipPipe 的非商用条件（参见[仓库 LICENSE](https://github.com/lmy414/ai-chan-sheets/blob/51c15559ac7ebc6bbfb22e1769ba46716f976d5d/LICENSE)）。
 - **界面视觉参考**：参考 [@Small-tailqwq](https://github.com/Small-tailqwq) 的 [maid-atelier](https://github.com/Small-tailqwq/dsh-deep-whale/tree/dc561129f3bb3bc94c4a7c3e4007eaa274650d31/maid-atelier) 在构图、边框与输入框上的设计语言。
 - **书房背景图**：两幅背景图使用 OpenAI GPT Image 生成并重新编排书房场景、人物姿态与明暗配色，改编贡献按 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 共享。分享或再创作时请保留以上原作者署名与来源链接，注明修改内容，仅限非商业用途，并以相同许可协议分享改编部分。
