@@ -4,18 +4,20 @@
 
 ## Atelier 装饰效果
 
-以下是 Windows 上使用 [Atelier 定制引擎](https://github.com/X-Immortal/Codex-Dream-Skin/tree/d4e3e07047ce5565fce8e01b6ed1cdd59d80c29e)的深色主题全窗口截图，侧栏和对话使用示例内容。
+以下是 Windows 上使用 [Atelier 定制引擎](https://github.com/X-Immortal/Codex-Dream-Skin/tree/d4e3e07047ce5565fce8e01b6ed1cdd59d80c29e)的深色主题全窗口截图。
 
 **新聊天首页**
 
 ![橘花书房首页，左侧为项目和聊天列表，中央是书房背景与输入框](docs/images/home-dark.png)
 
-**对话进行中**
+**制作 SVG 动画时的对话**
 
-![周末阅读清单示例，展示用户气泡、工具调用、助手回复与输入框](docs/images/conversation-dark.png)
+![制作骑车鹈鹕动画的真实对话、助手回复和 HTML 成品卡片](docs/images/conversation-dark.png)
 
 <details>
-<summary>侧栏橘花与输入框花边细节</summary>
+<summary>展开查看工具调用和装饰细节</summary>
+
+![展开工作过程后的文件读取与创建记录](docs/images/activity-dark.png)
 
 <img src="docs/images/sidebar-dark.png" alt="侧栏顶端居中的橘花与两侧枝叶角饰" width="290">
 
