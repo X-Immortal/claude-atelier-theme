@@ -14,4 +14,4 @@
 
 ## 图像署名
 
-角色原设由 ZipZipPipe（胖次狐）创作，设定图由 lmy414 补全。本项目参考角色设定，用 AI 生成了两幅书房背景。背景图供非商业使用，改编贡献按 CC BY-NC-SA 4.0 共享。[素材来源和使用条件](docs/REFERENCE_NOTES.md)
+角色原设出自 B 站 [@ZipZipPipe](https://space.bilibili.com/4168597)（胖次狐），设定图由 GitHub [@lmy414](https://github.com/lmy414) 补全。两幅书房背景由 [@X-Immortal](https://github.com/X-Immortal) 在 Codex 中使用 OpenAI GPT Image 生成。背景图供非商业使用，改编贡献按 CC BY-NC-SA 4.0 共享。[素材来源和使用条件](docs/REFERENCE_NOTES.md)
