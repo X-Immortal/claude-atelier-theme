@@ -2,6 +2,27 @@
 
 橘花书房是 [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin) 的浅色与深色主题。阅读中的 Claude 娘坐在书房一侧，另一侧是持书半身像，中间留给会话正文。
 
+## Atelier 装饰效果
+
+以下是 Windows 上使用 [Atelier 定制引擎](https://github.com/X-Immortal/Codex-Dream-Skin/tree/d4e3e07047ce5565fce8e01b6ed1cdd59d80c29e)的深色主题全窗口截图，侧栏和对话使用示例内容。
+
+**新聊天首页**
+
+![橘花书房首页，左侧为项目和聊天列表，中央是书房背景与输入框](docs/images/home-dark.png)
+
+**对话进行中**
+
+![周末阅读清单示例，展示用户气泡、工具调用、助手回复与输入框](docs/images/conversation-dark.png)
+
+<details>
+<summary>侧栏橘花与输入框花边细节</summary>
+
+<img src="docs/images/sidebar-dark.png" alt="侧栏顶端居中的橘花与两侧枝叶角饰" width="290">
+
+<img src="docs/images/composer-dark.png" alt="输入框上沿的金色花边、中央花饰和左右角饰" width="744">
+
+</details>
+
 | 浅色背景 | 深色背景 |
 | --- | --- |
 | ![浅色书房](light/background.png) | ![深色书房](dark/background.png) |
@@ -11,14 +32,6 @@
 先按上游的 [Windows 安装说明](https://github.com/Fei-Away/Codex-Dream-Skin/blob/main/docs/install-windows.md)或 [macOS 安装说明](https://github.com/Fei-Away/Codex-Dream-Skin/blob/main/docs/install-macos.md)安装 Dream Skin，再下载[浅色主题 ZIP](https://github.com/X-Immortal/claude-atelier-theme/releases/download/v4/claude-maid-atelier-light-v4.zip) 或[深色主题 ZIP](https://github.com/X-Immortal/claude-atelier-theme/releases/download/v4/claude-maid-atelier-dark-v4.zip)。在 Windows 托盘或 macOS 菜单栏的 Dream Skin 菜单中选择“导入主题 ZIP…”，然后在“已保存主题”中应用对应主题。
 
 下载本主题仓库后，可以打开[本地预览](preview/index.html)切换浅色和深色布局。
-
-## Atelier 装饰效果
-
-使用 [Atelier 定制引擎](https://github.com/X-Immortal/Codex-Dream-Skin/tree/d4e3e07047ce5565fce8e01b6ed1cdd59d80c29e)时，侧栏顶部会出现橘花，输入框上沿带有花边，两端各有一枚角饰。下图截自 Windows 深色主题。
-
-<img src="docs/images/sidebar-dark.png" alt="侧栏顶端居中的橘花与两侧枝叶角饰" width="290">
-
-<img src="docs/images/composer-dark.png" alt="输入框上沿的金色花边、中央花饰和左右角饰" width="744">
 
 ## 图像署名
 
