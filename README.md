@@ -4,7 +4,7 @@
 
 ## 效果预览
 
-以下实机截图来自 Windows 上运行的 [Atelier 定制引擎（`atelier-local` 分支）](https://github.com/X-Immortal/Codex-Dream-Skin/tree/atelier-local)深色主题；使用[上游 Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin) 时可获得书房背景、主题配色与面板边框样式，但不含侧栏橘花、角饰与金线框装饰。
+直接导入本主题 ZIP 即可在 Codex Dream Skin 中生效书房背景、主题配色与卡片样式；下方实机截图同时展示了个人分支（[`atelier-local`](https://github.com/X-Immortal/Codex-Dream-Skin/tree/atelier-local)）额外绘制的侧栏橘花、金线框与输入框花边。
 
 **新聊天首页**
 
@@ -22,39 +22,15 @@
 | --- | --- |
 | ![浅色书房](light/background.png) | ![深色书房](dark/background.png) |
 
-## 安装与下载
+## 安装
 
-前往本仓库的 [v4 发布页](https://github.com/X-Immortal/claude-atelier-theme/releases/tag/v4) 下载主题包，或直接下载对应 ZIP：
+1. 按 [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin) 的 [Windows 安装说明](https://github.com/Fei-Away/Codex-Dream-Skin/blob/main/docs/install-windows.md) 或 [macOS 安装说明](https://github.com/Fei-Away/Codex-Dream-Skin/blob/main/docs/install-macos.md) 安装客户端（[Releases](https://github.com/Fei-Away/Codex-Dream-Skin/releases)）。
+2. 前往本仓库 [v4 发布页](https://github.com/X-Immortal/claude-atelier-theme/releases/tag/v4) 下载主题包，或直接下载：
+   - 浅色主题：[claude-maid-atelier-light-v4.zip](https://github.com/X-Immortal/claude-atelier-theme/releases/download/v4/claude-maid-atelier-light-v4.zip)
+   - 深色主题：[claude-maid-atelier-dark-v4.zip](https://github.com/X-Immortal/claude-atelier-theme/releases/download/v4/claude-maid-atelier-dark-v4.zip)
+3. 在 Windows 系统托盘或 macOS 菜单栏打开 Dream Skin 菜单，选择“导入主题 ZIP…”，导入后在“已保存主题”中应用。
 
-- 浅色主题：[claude-maid-atelier-light-v4.zip](https://github.com/X-Immortal/claude-atelier-theme/releases/download/v4/claude-maid-atelier-light-v4.zip)
-- 深色主题：[claude-maid-atelier-dark-v4.zip](https://github.com/X-Immortal/claude-atelier-theme/releases/download/v4/claude-maid-atelier-dark-v4.zip)
-
-### 方式一：配合上游 Codex Dream Skin 使用（推荐常规用户）
-
-1. 按上游仓库 [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) 的 [Windows 安装说明](https://github.com/Fei-Away/Codex-Dream-Skin/blob/main/docs/install-windows.md) 或 [macOS 安装说明](https://github.com/Fei-Away/Codex-Dream-Skin/blob/main/docs/install-macos.md) 安装客户端（官方安装包位于 [上游 Releases](https://github.com/Fei-Away/Codex-Dream-Skin/releases)）。
-2. 在 Windows 系统托盘或 macOS 菜单栏打开 Dream Skin 菜单，选择“导入主题 ZIP…”，导入浅色或深色主题 ZIP。
-3. 在“已保存主题”中选择对应主题应用即可。
-
-### 方式二：配合 Atelier 定制引擎使用（完整书房装饰效果）
-
-定制引擎维护在 [X-Immortal/Codex-Dream-Skin](https://github.com/X-Immortal/Codex-Dream-Skin) fork 仓库，目前以源码分支维护，不单独提供预编译安装包：
-
-1. 克隆定制引擎仓库并切换到 [`atelier-local`](https://github.com/X-Immortal/Codex-Dream-Skin/tree/atelier-local) 分支。
-2. 按分支内的 [Windows 源码安装说明](https://github.com/X-Immortal/Codex-Dream-Skin/blob/atelier-local/windows/README.md)（运行 `windows/scripts/install-dream-skin.ps1`）或 [macOS 说明](https://github.com/X-Immortal/Codex-Dream-Skin/blob/atelier-local/macos/README.md) 部署运行时。
-3. 再按方式一导入并应用本仓库的主题 ZIP。
-
-下载本主题仓库后，也可以直接用浏览器打开 [本地静态预览](preview/index.html) 切换浅色与深色布局。
-
-## 上游与定制引擎的区别
-
-| 项目 | 仓库与分支 | 主题生效范围 |
-| --- | --- | --- |
-| 主题包本体（本仓库） | [X-Immortal/claude-atelier-theme](https://github.com/X-Immortal/claude-atelier-theme) | 提供 `background.png`、`theme.json`（主题配色与元数据）及 `theme.css`（基于 `[data-ds-part]` 的部件背景、边框与阴影）。 |
-| 上游引擎 | [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)（`main`） | 原生支持导入本主题 ZIP，呈现书房背景图、整体配色与 Safe CSS 卡片样式；不包含 Atelier 专属装饰图案。 |
-| 定制引擎（集成版） | [X-Immortal/Codex-Dream-Skin · `atelier-local`](https://github.com/X-Immortal/Codex-Dream-Skin/tree/atelier-local) | 合并了 `skin-fixes` 与 `atelier-theme` 并同步生成多平台资源；额外绘制侧栏金线框、顶部与底部橘花及角饰、当前会话书签式选中态、输入框上沿装饰，并包含新版 Codex 界面兼容修复。 |
-| 定制引擎（纯主题规则） | [X-Immortal/Codex-Dream-Skin · `atelier-theme`](https://github.com/X-Immortal/Codex-Dream-Skin/tree/atelier-theme) | 仅在上游 `main` 基础上增加 `data-dream-theme-id` 标记与 Atelier 主题专属 CSS 装饰规则，不含 `skin-fixes` 兼容修复。 |
-
-更详细的视觉结构与样式分层说明见 [视觉设计说明](docs/DESIGN.md)。
+下载本仓库后，也可以用浏览器打开[本地静态预览](preview/index.html)切换浅色与深色布局。
 
 ## 仓库结构
 
