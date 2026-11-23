@@ -12,7 +12,7 @@
   "artworkCredits": {
     "characterDesign": "@ZipZipPipe · https://www.pixiv.net/artworks/148186519",
     "referenceSheet": "@lmy414 (GitHub) · https://github.com/lmy414/ai-chan-sheets",
-    "adaptation": "@X-Immortal · OpenAI GPT Image · bookshop scene, poses and color treatment · https://github.com/X-Immortal/claude-atelier-theme",
+    "adaptation": "OpenAI GPT Image · bookshop scene, poses and color treatment · https://github.com/X-Immortal/claude-atelier-theme",
     "adaptationLicense": "CC BY-NC-SA 4.0 · https://creativecommons.org/licenses/by-nc-sa/4.0/"
   },
   "appearance": "light",
