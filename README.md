@@ -14,4 +14,4 @@
 
 ## 图像署名
 
-角色原设出自 B 站 [@ZipZipPipe](https://space.bilibili.com/4168597)，设定图由 GitHub [@lmy414](https://github.com/lmy414) 补全。两幅书房背景由 [@X-Immortal](https://github.com/X-Immortal) 使用 OpenAI GPT Image 生成。背景图供非商业使用，改编贡献按 CC BY-NC-SA 4.0 共享。[素材来源和使用条件](docs/REFERENCE_NOTES.md)
+角色原设出自 B 站 [@ZipZipPipe](https://space.bilibili.com/4168597)，设定图取自 @lmy414 的 [ai-chan-sheets](https://github.com/lmy414/ai-chan-sheets)。两幅书房背景由 [@X-Immortal](https://github.com/X-Immortal) 使用 OpenAI GPT Image 生成。背景图供非商业使用，改编贡献按 CC BY-NC-SA 4.0 共享。[素材来源和使用条件](docs/REFERENCE_NOTES.md)
