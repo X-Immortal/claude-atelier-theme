@@ -14,16 +14,9 @@
 
 ![制作骑车鹈鹕动画的真实对话、助手回复和 HTML 成品卡片](docs/images/conversation-dark.png)
 
-<details>
-<summary>展开查看工具调用和装饰细节</summary>
+**工具调用**
 
 ![展开工作过程后的文件读取与创建记录](docs/images/activity-dark.png)
-
-<img src="docs/images/sidebar-dark.png" alt="侧栏顶端居中的橘花与两侧枝叶角饰" width="290">
-
-<img src="docs/images/composer-dark.png" alt="输入框上沿的金色花边、中央花饰和左右角饰" width="744">
-
-</details>
 
 | 浅色背景 | 深色背景 |
 | --- | --- |
