@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "claude-maid-atelier-dark",
+  "name": "Claude 娘 · 橘花书房（深色）",
+  "brandSubtitle": "Claude",
+  "tagline": "\u200b",
+  "projectPrefix": "\u200b",
+  "projectLabel": "选择项目",
+  "statusText": "\u200b",
+  "quote": "\u200b",
+  "image": "background.png",
+  "artworkCredits": {
+    "characterDesign": "ZipZipPipe · https://www.pixiv.net/artworks/148186519",
+    "referenceSheet": "lmy414 · https://github.com/lmy414/ai-chan-sheets",
+    "adaptation": "X-Immortal · AI-generated bookshop scene, poses and color treatment · https://github.com/X-Immortal/claude-atelier-theme",
+    "adaptationLicense": "CC BY-NC-SA 4.0 · https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.5,
+    "focusY": 0.5,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "rgba(25, 13, 13, .18)",
+    "panel": "rgba(37, 23, 22, .94)",
+    "panelAlt": "rgba(59, 35, 29, .97)",
+    "accent": "#dc915f",
+    "accentAlt": "#edb77b",
+    "secondary": "#d2ac83",
+    "highlight": "#c48a54",
+    "text": "#f7ead8",
+    "muted": "#d5bca8",
+    "line": "rgba(204, 145, 86, .62)"
+  }
+}

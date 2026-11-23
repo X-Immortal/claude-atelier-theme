@@ -1,0 +1,104 @@
+[data-ds-part="root"] {
+  color: var(--ds-theme-color-text);
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+[data-ds-part="sidebar"] {
+  background-color: rgba(29, 19, 21, .94);
+  border-right-color: rgba(227, 170, 105, .78);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgba(239, 196, 141, .32);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-bottom-color: rgba(239, 196, 141, .24);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-radius: 0;
+  box-shadow: inset -4px 0 0 rgba(227, 170, 105, .32), 9px 0 30px rgba(8, 3, 3, .40);
+  color: var(--ds-theme-color-text);
+  backdrop-filter: blur(12px) saturate(.85);
+}
+
+[data-ds-part="main"] {
+  border-left-color: rgba(204, 145, 86, .48);
+  border-left-style: solid;
+  border-left-width: 1px;
+  color: var(--ds-theme-color-text);
+}
+
+[data-ds-part="header"] {
+  background-color: rgba(34, 21, 20, .84);
+  border-bottom-color: rgba(219, 159, 98, .58);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  box-shadow: inset 0 -1px 0 rgba(239, 196, 141, .18), 0 6px 18px rgba(5, 2, 2, .32);
+  color: var(--ds-theme-color-text);
+  backdrop-filter: blur(12px);
+}
+
+[data-ds-part="home"] {
+  color: var(--ds-theme-color-text);
+}
+
+[data-ds-part="home-hero"] {
+  color: var(--ds-theme-color-text);
+  font-family: ui-serif, serif;
+  font-weight: 700;
+}
+
+[data-ds-part="project-list"] {
+  background-color: rgba(51, 32, 29, .92);
+  border-color: var(--ds-theme-color-line);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  box-shadow: 0 3px 12px rgba(5, 2, 2, .32);
+  color: var(--ds-theme-color-text);
+}
+
+[data-ds-part="thread"] {
+  color: var(--ds-theme-color-text);
+}
+
+[data-ds-part="message"] {
+  background-color: rgba(43, 27, 25, .78);
+  border-color: var(--ds-theme-color-line);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 14px;
+  box-shadow: 0 7px 22px rgba(5, 2, 2, .38);
+  color: var(--ds-theme-color-text);
+  backdrop-filter: blur(8px);
+}
+
+[data-ds-part="composer"] {
+  background-color: rgba(41, 25, 23, .90);
+  border-color: rgba(225, 165, 100, .72);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 15px;
+  box-shadow: inset 0 0 0 2px rgba(207, 142, 84, .25), 0 12px 30px rgba(5, 2, 2, .46);
+  color: var(--ds-theme-color-text);
+  backdrop-filter: blur(14px) saturate(1.05);
+}
+
+[data-ds-part="composer-toolbar"] {
+  border-top-color: var(--ds-theme-color-line);
+  border-top-style: solid;
+  border-top-width: 1px;
+  color: var(--ds-theme-color-muted);
+}
+
+[data-ds-part="dialog"] {
+  background-color: rgba(42, 27, 25, .96);
+  border-color: var(--ds-theme-color-line);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 14px;
+  box-shadow: 0 14px 36px rgba(5, 2, 2, .52);
+  color: var(--ds-theme-color-text);
+  backdrop-filter: blur(12px);
+}
+
